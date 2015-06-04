@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Figure With A Caption"
+title:  "图片标题n"
 date:   2014-12-12
 ---
 

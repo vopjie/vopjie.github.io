@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post With A Code Snippet"
+title:  "语法高亮"
 date:   2014-12-13
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Image in Post"
+title:  "添加图片"
 date:   2014-12-11
 ---
 

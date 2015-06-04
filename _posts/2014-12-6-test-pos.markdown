@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "添加Banner图片"
-date:   2014-12-14
-image: touring.jpg
+title:  "Test Post"
+date:   2014-12-10
 ---
 
 <p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>

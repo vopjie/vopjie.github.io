@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "图片标题n"
+title:  "图片标题"
 date:   2014-12-12
 ---
 

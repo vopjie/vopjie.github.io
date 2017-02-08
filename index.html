@@ -7,29 +7,10 @@
   <title>Document</title>
   <script src="https://cdn.ravenjs.com/3.10.0/raven.min.js"></script>
   <script>
-    // Raven.config('https://c84a5d2dac404726b5fcb09453b3df3a@sentry.io/135191').install();
-    Raven.config('https://c84a5d2dac404726b5fcb09453b3df3a@sentry.io/135191', {
-      release: '0e4fdef81448dcfa0e16ecc4433ff3997aa53572'
-    }).install();
+    Raven.config('http://607aed9ab8804e7aab8b9fd693bcc328@10.10.27.138:9000/1').install()
   </script>
-  <!-- <script type='text/javascript'>
-    window.Muscula = { settings:{
-        logId:'00aae859-fe50-47c7-9fef-e8204124e166', suppressErrors: false
-    }};
-    (function () {
-        var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true;
-        m.src = (window.location.protocol == 'https:' ? 'https:' : 'http:') +
-            '//musculahq.appspot.com/Muscula7.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
-        window.Muscula.run=function(){var a;eval(arguments[0]);window.Muscula.run=function(){};};
-        window.Muscula.errors=[];window.onerror=function(){window.Muscula.errors.push(arguments);
-        return window.Muscula.settings.suppressErrors===undefined;}
-    })();
-  </script> -->
 </head>
 <body>
   <script src="./demo.js"></script>
-
-
 </body>
 </html>

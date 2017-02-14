@@ -1,1 +1,9 @@
-setTimeout(function(){console.log("OK");alert(aaa)},5000);
+function testError() {
+  // try {
+    doSomething()；
+  // } catch(e) {
+  //   Raven.captureException(e)
+  //   Raven.showReportDialog();
+  //   return false;
+  // }
+}

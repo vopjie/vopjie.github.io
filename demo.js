@@ -1,9 +1,11 @@
-function testError() {
-  // try {
-    doSomething()；
-  // } catch(e) {
-  //   Raven.captureException(e)
-  //   Raven.showReportDialog();
-  //   return false;
-  // }
+window.onload = function () {
+  function testError() {
+    // try {
+      doSomething()；
+    // } catch(e) {
+    //   Raven.captureException(e)
+    //   Raven.showReportDialog();
+    //   return false;
+    // }
+  }
 }

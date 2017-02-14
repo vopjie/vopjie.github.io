@@ -1,7 +1,7 @@
 window.onload = function () {
   function testError() {
     // try {
-      doSomething()；
+      doSomething();
     // } catch(e) {
     //   Raven.captureException(e)
     //   Raven.showReportDialog();

@@ -5,6 +5,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Document</title>
+  <style>
+    * {
+      outline: none;
+    }
+    body {
+      padding: 15px;
+    }
+    button {
+      border:1px solid #ccc;
+      border-radius: 4px;
+      width: 100%;
+      height: 40px;
+    }
+  </style>
   <script src="https://cdn.ravenjs.com/3.10.0/raven.min.js"></script>
   <script>
     Raven.config('https://7f4fb14a403d4153a01c356a44fbb70a@sentry.io/135199').install()
@@ -13,5 +27,7 @@
 </head>
 <body>
   <script src="./demo.js"></script>
+  <button onclick="testError()">testError</button>
+  <p>click the button to test sentry error report.</p>
 </body>
 </html>
